@@ -1,0 +1,8 @@
+{
+  "name": "Aixila Limited - B2B AI-Powered Outbound & Sales Automation",
+  "description": "Aixila Limited is a UK-registered technology and business services company providing AI-powered outbound prospecting, lead generation, sales automation and related marketing services to B2B companies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
